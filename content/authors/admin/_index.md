@@ -1,75 +1,60 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
 authors:
 - admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+bio: My research focuses on language acquisition in bilingual children, particularly how bilingual infants separate their languages.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - course: PhD in Psychology
+    institution: Concordia University
+    year: 2018 - Present
+  - course: MA in Linguistics
+    institution: Utrecht University
+    year: 2017
+  - course: BA in Biopsychology, Cognition, and Neuroscience & Linguistics
+    institution: University of Michigan
+    year: 2015
+email: "lena.kremin@mail.concordia.ca"
+interests:
+- Bilingualism
+- Language Acquisition
+- Open Science
+- R
+name: Lena V. Kremin
+organizations:
+- name: Concordia University
+  url: ""
+role: PhD Candidate
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/LVKremin
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=dZP8j_YAAAAJ&hl=en&oi=ao
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Lena_Kremin
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/lvkremin
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/wwbfq/
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+superuser: false
 user_groups:
 - Researchers
 - Visitors
 ---
+I am currently a PhD candidate in Psychology at Concordia University in Montreal, Canada.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My main research interest is **language acquisition in bilingual children**, particularly how bilingual infants **separate** their languages. I’m currently involved in projects investigating parental language mixing, word learning, and the potential effects of code-switching on comprehension.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of my research, I enjoy practicing and teaching yoga, travelling, spending time with my dog, and occassionally knitting.
+
+Please do not hesitate to [contact](https://www.lenavkremin.com/#contact) me if you have any questions relating to my research.
+
+-Lena
