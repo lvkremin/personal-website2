@@ -1,6 +1,6 @@
 ---
 authors:
-- Lena V. Kremin
+- admin
 bio: My research focuses on language acquisition in bilingual children, particularly how bilingual infants separate their languages.
 education:
   courses:
