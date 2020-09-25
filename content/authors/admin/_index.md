@@ -19,7 +19,7 @@ interests:
 - Language Acquisition
 - Open Science
 - R
-name: Lena V. Kremin
+title: Lena V. Kremin
 organizations:
 - name: Concordia University
   url: ""
