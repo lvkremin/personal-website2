@@ -1,5 +1,5 @@
 ---
-abstract: Keep hearing about this thing called Open Science, but not quite sure what it is or where to get started? In this 5 part lecture series, I introduce Open Science and some of its elements, including publications, sharing materials, collaborations, and self-corrections. <br> Watch the first video below, or click the "Video" button above to see the entire series! <br> If you use these materials in a course, please let me know!
+abstract: Keep hearing about this thing called Open Science, but not quite sure what it is or where to get started? In this 5 part lecture series, I introduce Open Science and some of its elements, including publications, sharing materials, collaborations, and self-corrections. <br> <br> Watch the first video below, or click the "Video" button above to see the entire series! <br> <br> If you use these materials in a course, please let me know!
 
 # address:
 #   city: Stanford
