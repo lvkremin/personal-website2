@@ -9,7 +9,7 @@ abstract: Keep hearing about this thing called Open Science, but not quite sure 
 #   street: 450 Serra Mall
 all_day: false
 authors: [Lena V. Kremin]
-#date: "2020-07-08T08:30:00Z"
+date: "2020-12-02T16:30:00Z"
 #date_end: "2030-06-01T15:00:00Z"
 event: PSYC 310 - Research Methods & Design, Fall 2020
 #event_url: https://example.org
@@ -27,7 +27,7 @@ math: true
 projects:
 #publishDate: "2017-01-01T00:00:00Z"
 slides: 
-summary: Introduction to Open Science
+summary: 5-part lecture series recorded for PSYC 310, Fall 2020
 tags: []
 title: "Introduction to Open Science Lecture"
 url_code: ""
@@ -36,4 +36,4 @@ url_slides: ""
 url_video: "https://www.youtube.com/playlist?list=PLvYttKj-yvPcEj1V69pHWGFSUi4FdFbLo"
 ---
 
-<iframe width="720" height="405" src="https://www.youtube.com/embed/JJcrpRHTeog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/watch?v=-0ETiRlV1-o&list=PLvYttKj-yvPcEj1V69pHWGFSUi4FdFbLo&index=1&ab_channel=KBHLab" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
