@@ -44,6 +44,9 @@ social:
 - icon: osf
   icon_pack: ai
   link: https://osf.io/wwbfq/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4010-490X
 
 superuser: false
 user_groups:
