@@ -33,7 +33,7 @@ title: "Introduction to Open Science Lecture"
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/playlist?list=PLvYttKj-yvPcEj1V69pHWGFSUi4FdFbLo"
+url_playlist: "https://www.youtube.com/playlist?list=PLvYttKj-yvPcEj1V69pHWGFSUi4FdFbLo"
 ---
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/-0ETiRlV1-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
