@@ -36,4 +36,4 @@ url_slides: ""
 url_video: "https://www.youtube.com/playlist?list=PLvYttKj-yvPcEj1V69pHWGFSUi4FdFbLo"
 ---
 
-<iframe width="720" height="405" src="https://www.youtube.com/watch?v=-0ETiRlV1-o&list=PLvYttKj-yvPcEj1V69pHWGFSUi4FdFbLo&index=1&ab_channel=KBHLab" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://youtu.be/-0ETiRlV1-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
