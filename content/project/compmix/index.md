@@ -11,7 +11,7 @@ image:
 #  name: Follow
 #  url: https://twitter.com/georgecushen
 #slides: example-slides
-summary: An investigation into toddlers' comprehension code-switching
+summary: Exploring how toddlers comprehend code-switching
 # tags:
 # - Code-Switching
 title: Toddlers' Code-Switching Comprehension
