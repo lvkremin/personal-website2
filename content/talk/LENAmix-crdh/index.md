@@ -1,5 +1,5 @@
 ---
-abstract: Code-switching (e.g., “Are you hungry? *Est-ce que tu veux une apple?*”) is common in bilingual environments and may affect language acquisition, yet little is known about parental code-switching patterns. This is the first study to examine parents’ natural code-switching behaviors. Our findings show that parents do not frequently code-switch when speaking to their infant, and that properties of their code-switching (e.g., syntactic location and apparent reason) shift over the infant's development.
+abstract: Code-switching (e.g., “Are you hungry? *Est-ce que tu veux une* apple?”) is common in bilingual environments and may affect language acquisition, yet little is known about parental code-switching patterns. This is the first study to examine parents’ natural code-switching behaviors. Our findings show that parents do not frequently code-switch when speaking to their infant, and that properties of their code-switching (e.g., syntactic location and apparent reason) shift over the infant's development.
 
 # address:
 #   city: Stanford
