@@ -55,7 +55,7 @@ user_groups:
 ---
 I am currently a PhD candidate in Psychology at Concordia University in Montreal, Canada.
 
-My main research interest is **language acquisition in bilingual children**, particularly how bilingual infants **separate** their languages. I’m currently involved in projects investigating parental language mixing, word learning, and the potential effects of code-switching on comprehension.
+My main research interest is **language acquisition in bilingual children**, particularly how bilingual infants **separate** their languages. I’m currently involved in projects investigating bilinguals' phonological perception, parental language mixing, and the potential effects of code-switching on comprehension.
 
 Outside of my research, I enjoy practicing and teaching yoga, travelling, spending time with my dog, and occassionally knitting.
 
