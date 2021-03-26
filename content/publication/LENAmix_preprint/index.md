@@ -2,7 +2,7 @@
 abstract: Code-switching is a common phenomenon in bilingual communities, but little is known about bilingual parents’ code-switching when speaking to their infants. In a pre-registered study, we identified instances of code-switching in day-long at-home audio recordings of 21 French–English bilingual families in Montreal, Canada, who provided recordings when their infant was 10 and 18 months old. Overall, rates of code-switching were low, averaging 7 times per hour at 10 months and increasing to 28 times per hour at 18 months. Parents code-switched more between sentences than within a sentence, and this pattern was even more pronounced at 18 months than at 10 months. The most common apparent reasons for code-switching were to bolster their infant’s understanding and to teach vocabulary words. Combined, these results suggest that bilingual parents code-switch in ways that support successful bilingual language acquisition.
 authors:
 - LV Kremin
-- J Albes
+- J Alves
 - AJ Orena
 - L Polka
 - K Byers-Heinlein
