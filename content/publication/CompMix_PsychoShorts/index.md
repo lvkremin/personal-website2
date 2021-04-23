@@ -9,7 +9,7 @@ doi: ""
 featured: false
 image:
   caption: ''
-  focal_point: "Center"
+  focal_point: ""
 links:
 #- name: Custom Link
 #  url: https://www.researchgate.net/profile/Lena_Kremin/publication/320931641_Sexist_swearin#g_and_slurs_Responses_to_gender-directed_insults/links/5a0325af0f7e9b3d40203e39/Sexist-swear#ing-and-slurs-Responses-to-gender-directed-insults.pdf
