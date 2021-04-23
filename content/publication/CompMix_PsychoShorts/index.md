@@ -1,5 +1,5 @@
 ---
-abstract: TEST 
+abstract: Bilingual children hear sentences that contain words from both languages, also known as code-switching (Kremin et al., 2020). Investigating how bilinguals process code-switching is a crucial component in understanding bilingual language acquisition, because bilinguals experience processing costs and reduced comprehension when encountering code-switched nouns (e.g., Can you find the chien?; Byers-Heinlein et al., 2017; Potter et al., 2019). Studies have yet to investigate if processing costs are present when toddlers encounter code-switches at other syntactic locations within a sentence. Therefore, the current study examined how young bilinguals process sentences with code-switches at an adjective before the target noun.
 authors:
 - LV Kremin
 - C Lew-Williams
