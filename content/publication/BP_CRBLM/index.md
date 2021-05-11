@@ -36,7 +36,7 @@ title: "You heard “potato,” I heard “botato”: Lexical factors influence 
 #url_project: ""
 #url_slides: '#'
 #url_source: '#'
-#url_video: https://youtu.be/wLK_fooaq1g
+url_video: https://youtu.be/wLK_fooaq1g
 ---
 
-<iframe width="720" height="405" src="https://youtu.be/wLK_fooaq1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/wLK_fooaq1g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
