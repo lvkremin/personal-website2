@@ -30,7 +30,7 @@ tags: []
 title: "You heard “potato,” I heard “botato”: Lexical factors influence bilinguals’ phonetic perception (Poster)"
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf: 
+url_pdf: https://osf.io/4tvdx/
 #url_poster: '#'
 #url_preprint: 
 #url_project: ""
