@@ -6,22 +6,24 @@ authors:
 - AJ Orena
 - L Polka
 - K Byers-Heinlein
-date: "2020-04-29T00:00:00-04:00"
+date: "2021-05-19T00:00:00-04:00"
 doi: ""
 featured: true
 image:
   caption: ''
   focal_point: "Center"
 links:
-# - name: Pre-print
-#   url: https://psyarxiv.com/rk2ah
+- name: Article
+  url: https://www.doi.org/10.1017/S0305000921000118
+- name: OSF
+  url: https://osf.io/jwdfs/
 math: true
 projects:
 - lenamix
-publication: PsyArXiv
+publication: Journal of Child Language
 #publication_short: 
 publication_types:
-- "3"
+- "1"
 # summary: A mobile visual clothing search system is presented whereby a smart phone
 #  user can either choose a social networking image or capture a new photo of a person
 #  wearing clothing of interest and search for similar clothing in a large cloud-based
