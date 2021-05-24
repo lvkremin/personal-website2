@@ -1,5 +1,5 @@
 ---
-abstract: Models of monolingual literacy propose that reading acquisition builds upon children’s semantic, phonological, and orthographic knowledge. The relationships between these components vary cross-linguistically, yet it is generally unknown how these differences impact bilingual children’s literacy. A comparison between Spanish-English bilingual and English monolingual children (ages 6–13, N=70) from the U.S. revealed that bilinguals had stronger associations between phonological and orthographic representations than monolinguals during English reading. While vocabulary was the strongest predictor of English word reading for both groups, phonology and morpho-syntax were the best predictors of Spanish reading for bilinguals. This comparison reveals distinct developmental processes across learners and languages, and suggests that early and systematic biliteracy exposure at home and through afterschool programs can influence children’s sound-to-print associations even in the context of language-specific (monolingual) reading instruction. These findings have important implications for bilingual education as well as theories that aim to explain how learning to read across languages has a positive impact on the acquisition of literacy.
+abstract: Models of monolingual literacy propose that reading acquisition builds upon children’s semantic, phonological, and orthographic knowledge. The relationships between these components vary cross-linguistically, yet it is generally unknown how these differences impact bilingual children’s literacy. A comparison between Spanish-English bilingual and English monolingual children (ages 6–13, N=70) from the U.S. revealed that bilinguals had stronger associations between phonological and orthographic representations than monolinguals during English reading. While vocabulary was the strongest predictor of English word reading for both groups, phonology and morpho-syntax were the best predictors of Spanish reading for bilinguals. This comparison reveals distinct developmental processes across learners and languages, and suggests that early and systematic biliteracy exposure at home and through after school programs can influence children’s sound-to-print associations even in the context of language-specific (monolingual) reading instruction. These findings have important implications for bilingual education as well as theories that aim to explain how learning to read across languages has a positive impact on the acquisition of literacy.
 authors:
 - LV Kremin
 - MM Arredondo
@@ -13,12 +13,12 @@ featured: true
 #  caption: ''
 #  focal_point: "Center"
 links:
-- name: Full Article
+- name: Article
   url: https://www.tandfonline.com/doi/abs/10.1080/13670050.2016.1239692
 math: true
 #projects:
 #- lenamix
-publication: In *International Journal of Bilingual Education and Bilingualism*
+publication: International Journal of Bilingual Education and Bilingualism
 #publication_short: 
 publication_types:
 - "2"
