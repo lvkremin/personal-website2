@@ -3,7 +3,7 @@ abstract: Bilingualism is a complex construct, and it can be difficult to define
 authors:
 - LV Kremin
 - K Byers-Heinlein
-date: "2020-04-08T00:00:00-04:00"
+date: "2021-07-16T00:00:00-04:00"
 doi: ""
 featured: true
 image:
@@ -29,7 +29,7 @@ tags: []
 title: "Why not both? Rethinking categorical and continuous approaches to bilingualism"
 #url_code: '#'
 #url_dataset: '#'
-#url_pdf: 
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/13670069211031986
 #url_poster: '#'
 url_preprint: https://psyarxiv.com/nkvap/
 #url_project: ""
