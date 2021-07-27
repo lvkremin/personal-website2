@@ -47,6 +47,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4010-490X
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lena-kremin/
 
 superuser: false
 user_groups:
