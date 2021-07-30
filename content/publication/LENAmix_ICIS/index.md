@@ -32,7 +32,7 @@ tags: []
 title: "Changes in Parental Code-Switching Across Infant Development (Poster)"
 #url_code: '#'
 #url_dataset: '#'
-url_pdf: https://osf.io/dh7b5/
+url_pdf: https://osf.io/pnwkv/
 url_poster: https://my.visme.co/view/76ppyjp7-changes-in-parental-code-switching-across-development
 #url_preprint: 
 #url_project: ""
