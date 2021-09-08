@@ -16,7 +16,7 @@ subtitle = "To see all publications, please [click here](https://www.lenavkremin
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 3
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
