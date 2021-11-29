@@ -14,7 +14,7 @@ education:
     institution: University of Michigan
     year: 2015
 email: "lena.kremin@mail.concordia.ca"
-interests:
+skills:
 - Bilingualism
 - Language Acquisition
 - Open Science
@@ -58,7 +58,7 @@ user_groups:
 ---
 I am currently a PhD candidate in Psychology at Concordia University in Montreal, Canada.
 
-My academic research has focused on **language acquisition in bilingual children**, particularly how bilingual infants **separate** their languages. I’m currently involved in projects investigating bilinguals' phonological perception, parental language mixing, and the potential effects of code-switching on comprehension.
+My academic research focuses on **language acquisition in bilingual children**, particularly how bilingual infants **separate** their languages. I’m currently involved in projects investigating bilinguals' phonological perception, parental language mixing, and the potential effects of code-switching on comprehension.
 
 Outside of my research, I enjoy practicing and teaching yoga, travelling, spending time with my dog, and occassionally knitting.
 
