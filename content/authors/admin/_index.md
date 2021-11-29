@@ -14,7 +14,7 @@ education:
     institution: University of Michigan
     year: 2015
 email: "lena.kremin@mail.concordia.ca"
-interests:
+skills:
 - Bilingualism
 - Language Acquisition
 - Open Science
