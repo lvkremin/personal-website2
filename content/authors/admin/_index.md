@@ -19,8 +19,6 @@ interests:
 - Language Acquisition
 - Open Science
 - R
-skills:
-- test
 #Display name
 title: Lena V. Kremin
 organizations:

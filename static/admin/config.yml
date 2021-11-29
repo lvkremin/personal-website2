@@ -27,10 +27,6 @@ collections:
         name: "interests"
         required: false
         widget: "list"
-      - label: "Skills (shown in About widget)"
-        name: "skills"
-        required: false
-        widget: "list"
       - label: Social links
         name: social
         required: false
