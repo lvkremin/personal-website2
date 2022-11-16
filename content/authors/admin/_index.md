@@ -20,7 +20,7 @@ interests:
 - Open Science
 - R
 #Display name
-title: Lena V. Kremin
+title: Lena V. Kremin, PhD
 organizations:
 - name: 
   url: ""
