@@ -14,8 +14,8 @@ education:
     institution: University of Michigan
     year: 2015
 email: "lena.kremin@mail.concordia.ca"
-experience:
- - UX Researcher at UserZoom
+# interests:
+# - 
 #Display name
 title: Lena V. Kremin, PhD
 organizations:
