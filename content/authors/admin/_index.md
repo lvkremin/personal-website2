@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Concordia University
-    year: 2018 - Present
+    year: 2018 - 2022
   - course: MA in Linguistics
     institution: Utrecht University
     year: 2017
@@ -20,11 +20,11 @@ interests:
 - Open Science
 - R
 #Display name
-title: Lena V. Kremin
+title: Lena V. Kremin, PhD
 organizations:
-- name: Concordia University
+- name: 
   url: ""
-role: PhD Candidate
+role: UX Researcher
 social:
 - icon: twitter
   icon_pack: fab
