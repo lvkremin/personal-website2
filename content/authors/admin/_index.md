@@ -16,6 +16,8 @@ education:
 email: "lenavkrem@gmail.com"
 # interests:
 # - 
+experience:
+- UX Researcher at UserZoom
 #Display name
 title: Lena V. Kremin, PhD
 organizations:

@@ -27,6 +27,10 @@ collections:
         name: "interests"
         required: false
         widget: "list"
+      - label: "Experience (shown in About widget)"
+        name: "experience"
+        required: false
+        widget: "list"
       - label: Social links
         name: social
         required: false
