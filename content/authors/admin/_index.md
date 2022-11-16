@@ -14,8 +14,8 @@ education:
     institution: University of Michigan
     year: 2015
 email: "lena.kremin@mail.concordia.ca"
-interests:
-- 
+# interests:
+# - 
 #Display name
 title: Lena V. Kremin, PhD
 organizations:
@@ -23,30 +23,31 @@ organizations:
   url: ""
 role: UX Researcher
 social:
+ - icon: linkedin
+   icon_pack: fab
+   link: https://www.linkedin.com/in/lena-kremin/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LVKremin
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.ca/citations?user=dZP8j_YAAAAJ&hl=en&oi=ao
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.ca/citations?user=dZP8j_YAAAAJ&hl=en&oi=ao
 # - icon: researchgate
 #   icon_pack: ai
 #   link: https://www.researchgate.net/profile/Lena_Kremin
 - icon: github
   icon_pack: fab
   link: https://github.com/lvkremin
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/wwbfq/
+# - icon: osf
+#  icon_pack: ai
+#  link: https://osf.io/wwbfq/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-4010-490X
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/lena-kremin/
+
 
 superuser: false
 user_groups:
