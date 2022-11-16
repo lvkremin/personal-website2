@@ -6,7 +6,7 @@ education:
   courses:
   - course: PhD in Psychology
     institution: Concordia University
-    year: 2018 - 2022
+    year: 2022
   - course: MA in Linguistics
     institution: Utrecht University
     year: 2017
@@ -56,11 +56,13 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am currently a PhD candidate in Psychology at Concordia University in Montreal, Canada.
+I am currently a UX Researcher at UserZoom. 
 
-My academic research focuses on **language acquisition in bilingual children**, particularly how bilingual infants **separate** their languages. I’m currently involved in projects investigating bilinguals' phonological perception, parental language mixing, and the potential effects of code-switching on comprehension.
+I have over 9 years of research experience. In my research I have drawn on a range of methods including moderated usability testing, surveys, competitive benchmarking, eye-tracking, interviews, and online experiments. I enjoy working with my team to answer questions about how people think and what they know. 
 
-Outside of my research, I enjoy practicing and teaching yoga, travelling, spending time with my dog, and occassionally knitting.
+I recently completed my PhD in Psychology at Concordia University in Montreal, Canada. My academic research focused on language acquisition in bilingual children.
+
+Outside of my research, I enjoy practicing and teaching yoga, traveling, spending time with my dog, and occassionally knitting.
 
 Please do not hesitate to [contact](https://www.lenavkremin.com/#contact) me if you have any questions relating to my research.
 
