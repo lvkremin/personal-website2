@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Selected Publications"
-subtitle = "To see all publications, please [click here](https://www.lenavkremin.com/publication/)"
+title = "Academic Publications"
+subtitle = "To see all academic publications, please [click here](https://www.lenavkremin.com/publication/)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
