@@ -90,7 +90,7 @@ email = "lenavkrem@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Concordia Infant Research Lab<br>7141 Sherbrooke St. West<br>PY-033", city = "Montreal", region = "QC", postcode = "H4B 1R6", country = "Canada", country_code = "CA"}
+#address = {street = "Concordia Infant Research Lab<br>7141 Sherbrooke St. West<br>PY-033", city = "Montreal", region = "QC", postcode = "H4B 1R6", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
