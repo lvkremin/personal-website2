@@ -21,9 +21,9 @@ interests:
 - R
 #Display name
 title: Lena V. Kremin, PhD
-#organizations:
-#- name: 
-#  url: ""
+organizations:
+- name: Concordia University
+  url: ""
 role: UX Researcher
 social:
 - icon: twitter
