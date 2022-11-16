@@ -2,6 +2,11 @@
 authors:
 - admin
 bio: My research focuses on language acquisition in bilingual children, particularly how bilingual infants separate their languages.
+experience:
+  positions:
+  - position: UX Researcher
+  - employer: UserZoom
+  - year: 2022 - Present
 education:
   courses:
   - course: PhD in Psychology
@@ -16,8 +21,6 @@ education:
 email: "lenavkrem@gmail.com"
 # interests:
 # - 
-experience:
-- UX Researcher at UserZoom
 #Display name
 title: Lena V. Kremin, PhD
 organizations:

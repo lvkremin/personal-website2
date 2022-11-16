@@ -27,10 +27,6 @@ collections:
         name: "interests"
         required: false
         widget: "list"
-      - label: "Experience (shown in About widget)"
-        name: "experience"
-        required: false
-        widget: "list"
       - label: Social links
         name: social
         required: false
@@ -55,6 +51,19 @@ collections:
         fields:
           - {label: Organization, name: name, widget: string, required: true}
           - {label: Link, name: url, widget: string, required: false}
+      - label: "Experience"
+        name: "experience"
+        required: false
+        widget: object
+        fields:
+          - label: "Positions"
+            name: "positions"
+            required: false
+            widget: list
+            fields:
+              - {label: Position, name: position, widget: string, required: true}
+              - {label: Employer, name: employer, widget: string, required: true}
+              - {label: Year, name: year, widget: number, valueType: int, required: false}
       - label: "Education"
         name: "education"
         required: false
