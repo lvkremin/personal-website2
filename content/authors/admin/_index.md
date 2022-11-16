@@ -13,7 +13,7 @@ education:
   - course: BA in Biopsychology, Cognition, and Neuroscience & Linguistics
     institution: University of Michigan
     year: 2015
-email: "lena.kremin@mail.concordia.ca"
+email: "lenavkrem@gmail.com"
 # interests:
 # - 
 #Display name
