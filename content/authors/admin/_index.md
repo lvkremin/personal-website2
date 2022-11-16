@@ -20,11 +20,11 @@ interests:
 - Open Science
 - R
 #Display name
-title: Lena V. Kremin, PhD
+title: Lena V. Kremin
 organizations:
 - name: Concordia University
   url: ""
-role: UX Researcher
+role: PhD Candidate
 social:
 - icon: twitter
   icon_pack: fab
