@@ -23,9 +23,9 @@ organizations:
   url: ""
 role: UX Researcher
 social:
- - icon: linkedin
-   icon_pack: fab
-   link: https://www.linkedin.com/in/lena-kremin/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lena-kremin/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LVKremin
