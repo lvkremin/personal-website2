@@ -26,11 +26,7 @@ date_format = "2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  • Design and conduct end-to-end remote usability studies, competitive benchmarks, and heuristic evaluations, assessing designs and user behaviors 
-  • Analyze and present data, translating research findings into actionable insights and narratives 
-  • Consult with clients on their research goals and long-term research roadmap, identifying high priority research topics
-  """
+
 
 [[experience]]
   title = "PhD in Psychology"
@@ -41,9 +37,6 @@ date_format = "2006"
   date_end = "2022-12-31"
   description = """
   Responsibilities include:
-  
-  • Designed and executed five quantitative research projects, advancing knowledge in the fields of psychology and linguistics
-  • Performed descriptive and inferential statistics and visualized data on user responses and behavior, translating results to drive strategic decisions
-  • Presented research findings in two articles in international journals and eight regional and international conferences, advocating insights among a diverse audience
+
 
 +++

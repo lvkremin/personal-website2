@@ -13,11 +13,6 @@
   url = "#featured"
   weight = 30
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 35
-
 
 [[main]]
   name = "Contact"
@@ -27,6 +22,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
-    name = "Resume"
+    name = "Resume (PDF)"
     url = "files/Kremin_resume_2022.pdf"
     weight = 40
