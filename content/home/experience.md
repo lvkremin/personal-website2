@@ -24,13 +24,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2022-05-01"
   date_end = ""
-  description = """
-  # Responsibilities include:
-  # 
-  # * Analysing
-  # * Modelling
-  # * Deploying
-  """
+
 
 [[experience]]
   title = "Professor"
