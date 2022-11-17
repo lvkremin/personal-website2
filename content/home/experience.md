@@ -28,11 +28,47 @@ date_format = "2006"
 
 [[experience]]
   title = "Psychology PhD"
-  company = "University X"
+  company = "Concordia University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Montreal, Canada"
+  date_start = "2018-01-01"
+  date_end = "2022-12-31"
+  description = """"""
+  
+[[experience]]
+  title = "Course Instructor"
+  company = "Concordia University"
+  company_url = ""
+  location = "Montreal, Canada"
+  date_start = "2020-01-01"
+  date_end = "2021-12-31"
+  description = """"""
+  
+[[experience]]
+  title = "Lab Manager"
+  company = "Penn State University"
+  company_url = ""
+  location = "State College, PA"
+  date_start = "2017-01-01"
+  date_end = "2018-12-31"
+  description = """"""
+  
+[[experience]]
+  title = "Linguistics MA"
+  company = "Utrecht University"
+  company_url = ""
+  location = "Utrecht, Netherlands"
+  date_start = "2015-01-01"
+  date_end = "2017-12-31"
+  description = """"""
+  
+[[experience]]
+  title = "Psychology & Linguistics BA"
+  company = "University of Michigan"
+  company_url = ""
+  location = "Ann Arbor, MI"
+  date_start = "2011-01-01"
+  date_end = "2015-12-31"
+  description = """"""
 
 +++
