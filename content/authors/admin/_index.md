@@ -2,17 +2,17 @@
 authors:
 - admin
 bio: My research focuses on language acquisition in bilingual children, particularly how bilingual infants separate their languages.
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: Concordia University
-    year: 2022
-  - course: MA in Linguistics
-    institution: Utrecht University
-    year: 2017
-  - course: BA in Biopsychology, Cognition, and Neuroscience & Linguistics
-    institution: University of Michigan
-    year: 2015
+# education:
+#   courses:
+#   - course: PhD in Psychology
+#     institution: Concordia University
+#     year: 2022
+#   - course: MA in Linguistics
+#     institution: Utrecht University
+#     year: 2017
+#   - course: BA in Biopsychology, Cognition, and Neuroscience & Linguistics
+#     institution: University of Michigan
+#     year: 2015
 email: "lenavkrem@gmail.com"
 # interests:
 # - 
