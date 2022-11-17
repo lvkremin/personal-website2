@@ -9,6 +9,12 @@
   weight = 10
 
 [[main]]
+  name = "Experience"
+  url = "#experience"
+  weight = 20
+
+
+[[main]]
   name = "Publications"
   url = "#featured"
   weight = 30
@@ -21,7 +27,7 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "Resume (PDF)"
-    url = "files/Kremin_resume_2022.pdf"
-    weight = 40
+# [[main]]
+#    name = "Resume (PDF)"
+#    url = "files/Kremin_resume_2022.pdf"
+#    weight = 40
