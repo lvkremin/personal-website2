@@ -25,7 +25,7 @@ date_format = "2006"
   date_start = "2022-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities include: ""
 
 
 [[experience]]
@@ -36,7 +36,7 @@ date_format = "2006"
   date_start = "2018-01-01"
   date_end = "2022-12-31"
   description = """
-  Responsibilities include:
+  Responsibilities include: ""
 
 
 +++
