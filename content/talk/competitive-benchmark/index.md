@@ -9,7 +9,7 @@ abstract: A sample of a competitive benchmarking study. The data presented was m
 #   street: 450 Serra Mall
 all_day: false
 authors: [Lena V. Kremin]
-#date: "2022-01-27"
+date: "2022"
 #date_end: "2030-06-01T15:00:00Z"
 #event: Annual Centre for Research on Human Development Conference
 #event_url: https://example.org
