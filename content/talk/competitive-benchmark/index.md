@@ -25,7 +25,7 @@ links:
 # location: Source Themes HQ
 math: true
 #projects:
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 slides: 
 #summary: Improving data visualizations in infant research
 tags: []
