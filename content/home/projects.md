@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "UX Research Portfolio title"
-subtitle = ""
+title = "UX Research Portfolio"
+subtitle = "To see a sample of my UXR work, please [click here](https://www.lenavkremin.com/project/uxr)"
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
