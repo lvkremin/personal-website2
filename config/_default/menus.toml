@@ -29,5 +29,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
 #    name = "Resume (PDF)"
-#    url = "files/Kremin_resume_2022.pdf"
+#    url = "files/Kremin_resume_2023.pdf"
 #    weight = 40

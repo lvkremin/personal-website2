@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Experience & Education"
-subtitle = "To download my full resume, please [click here](https://www.lenavkremin.com/files/Kremin_resume_2022.pdf)"
+subtitle = "To download my full resume, please [click here](https://www.lenavkremin.com/files/Kremin_resume_2023.pdf)"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format

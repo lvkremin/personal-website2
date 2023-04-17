@@ -12,8 +12,8 @@ image:
 #  url: https://twitter.com/georgecushen
 #slides: example-slides
 summary: 
-# tags:
-# - Code-Switching
+tags: 
+ - uxr
 title: UX Research Portfolio
 url_code: ""
 url_pdf: ""
