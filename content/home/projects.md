@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "UX Research Portfolio"
+title = "UX Research Portfolio title"
 subtitle = ""
 
 [content]
@@ -21,9 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+ [[content.filter_button]]
+   name = "UX Research Portfolio"
+   tag = "uxr"
   # 
   # [[content.filter_button]]
   #   name = "Deep Learning"
@@ -35,7 +35,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
