@@ -54,11 +54,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I have over 9 years of research experience. In my research I have drawn on a range of methods including moderated usability testing, surveys, competitive benchmarking, eye-tracking, interviews, and online experiments. I enjoy working with my team to answer questions about how people think and what they know. 
+I have over 10 years of research experience. In my research I have drawn on a range of methods including moderated usability testing, surveys, competitive benchmarking, eye-tracking, interviews, and online experiments. I enjoy working with my team to answer questions about how people think and what they know. 
 
-I recently completed my PhD in Psychology at Concordia University in Montreal, Canada. My academic research focused on language acquisition in bilingual children.
+I completed my PhD in Psychology at Concordia University in Montreal, Canada. My academic research focused on language acquisition in bilingual children.
 
-Outside of my research, I enjoy practicing and teaching yoga, traveling, spending time with my dog, and occassionally knitting.
+Outside of my research, I enjoy practicing and teaching yoga, traveling, spending time with my dog, and occasionally knitting.
 
 Please do not hesitate to [contact](https://www.lenavkremin.com/#contact) me if you have any questions relating to my work.
 
