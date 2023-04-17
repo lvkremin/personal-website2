@@ -9,7 +9,7 @@ abstract: A sample of an unmoderated usability study and survey.
 #   street: 450 Serra Mall
 all_day: false
 authors: [Lena V. Kremin]
-date: "2022-01-01"
+date: "2023-02-01"
 #date_end: "2030-06-01T15:00:00Z"
 #event: Annual Centre for Research on Human Development Conference
 #event_url: https://example.org
@@ -24,7 +24,8 @@ links:
 #   url: https://twitter.com/georgecushen
 # location: Source Themes HQ
 math: true
-#projects:
+projects:
+- uxr
 #publishDate: "2017-01-01T00:00:00Z"
 slides: 
 #summary: Improving data visualizations in infant research
