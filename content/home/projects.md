@@ -2,8 +2,8 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 12  # Order that this section will appear.
 
 title = "UX Research Portfolio"
 subtitle = "To see a sample of my UXR work, please [click here](https://www.lenavkremin.com/project/uxr)"

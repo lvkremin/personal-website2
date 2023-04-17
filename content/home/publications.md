@@ -5,17 +5,17 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 12  # Order that this section will appear.
 
-title = "Publications"
-subtitle = ""
+title = "UX Research portfolio"
+subtitle = "To see more my UXR work, please [click here](https://www.lenavkremin.com/project/uxr)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 2
+  count = 3
   
   # Choose how many pages you would like to offset by
   offset = 2
@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "uxr"
     category = ""
     publication_type = ""
     exclude_featured = false
