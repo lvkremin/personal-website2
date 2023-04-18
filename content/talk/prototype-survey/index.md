@@ -29,7 +29,8 @@ projects:
 #publishDate: "2017-01-01T00:00:00Z"
 slides: 
 #summary: Improving data visualizations in infant research
-tags: [uxr]
+tags:
+  - portfolio
 title: "Unmoderated Usability & Survey"
 url_code: ""
 url_pdf: ""
