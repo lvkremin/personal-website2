@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 12  # Order that this section will appear.
 
 title = "UX Research Portfolio"
-subtitle = ""
+subtitle = "As a UX Researcher, I have provided insight on users' behavior and expectations to advance business objectives. I've used a wide range of methods to address a variety of research questions. Below is a sample of my work for clients in the tech, beauty, and communications industries."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -24,8 +24,8 @@ links:
 #   url: https://twitter.com/georgecushen
 # location: Source Themes HQ
 math: true
-projects:
-- uxr
+#projects:
+#- uxr
 #publishDate: "2017-01-01T00:00:00Z"
 slides: 
 #summary: Improving data visualizations in infant research
