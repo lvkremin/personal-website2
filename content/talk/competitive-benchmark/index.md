@@ -7,9 +7,9 @@ abstract:  ""
 #   postcode: "94305"
 #   region: CA
 #   street: 450 Serra Mall
-#all_day: false
+all_day: true
 authors: []
-# date: false
+date: "2022-01-26"
 #date_end: "2030-06-01T15:00:00Z"
 #event: Annual Centre for Research on Human Development Conference
 #event_url: https://example.org
