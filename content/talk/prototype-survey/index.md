@@ -1,5 +1,5 @@
 ---
-abstract: A sample of an unmoderated usability study and survey. 
+abstract: ""
 
 # address:
 #   city: Stanford
@@ -8,7 +8,7 @@ abstract: A sample of an unmoderated usability study and survey.
 #   region: CA
 #   street: 450 Serra Mall
 all_day: false
-authors: [Lena V. Kremin]
+authors: []
 date: "2023-02-01"
 #date_end: "2030-06-01T15:00:00Z"
 #event: Annual Centre for Research on Human Development Conference
@@ -37,6 +37,7 @@ url_pdf: ""
 url_slides: ""
 #url_video: ""
 ---
+A sample of an unmoderated usability study and survey. 
 
 <iframe src="https://onedrive.live.com/embed?cid=77FAE923E34BC1FE&resid=77FAE923E34BC1FE%2111092&authkey=AC0MW2AZ98ruwE0&em=2" width="720" height="405
 " frameborder="0" scrolling="no"></iframe>

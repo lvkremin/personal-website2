@@ -1,5 +1,5 @@
 ---
-abstract: A sample of a customer survey. 
+abstract: ""
 
 # address:
 #   city: Stanford
@@ -8,7 +8,7 @@ abstract: A sample of a customer survey.
 #   region: CA
 #   street: 450 Serra Mall
 all_day: false
-authors: [Lena V. Kremin]
+authors: []
 date: "2022-09-01"
 #date_end: "2030-06-01T15:00:00Z"
 #event: Annual Centre for Research on Human Development Conference
@@ -37,5 +37,6 @@ url_pdf: ""
 url_slides: ""
 #url_video: ""
 ---
+A sample of a customer survey. 
 
 <iframe src="https://onedrive.live.com/embed?cid=77FAE923E34BC1FE&resid=77FAE923E34BC1FE%2111093&authkey=AAu9Q-TwNVmM4bg&em=2" width="720" height="405" frameborder="0" scrolling="no"></iframe>
